@@ -1,4 +1,4 @@
-# home_sales_challenge
+# Home Sales Challenge
 Module 21 Challenge: Big Data
 
 In this challenge we use SparkSQL to determine key metrics about home sales data. 
